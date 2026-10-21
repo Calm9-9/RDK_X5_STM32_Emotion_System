@@ -1,0 +1,819 @@
+2025-09-26 10:45:06 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 10:45:06 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 10:45:06 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:45:06 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:45:06 - __main__ - INFO - 请说话...（5秒内说完）
+2025-09-26 10:45:11 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 10:45:13 - __main__ - INFO - 你说的内容：你好你好，基本上没有到吗？
+2025-09-26 10:45:13 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:45:13 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:45:13 - __main__ - INFO - 请说话...（5秒内说完）
+2025-09-26 10:45:16 - __main__ - INFO - 
+录音提前结束
+2025-09-26 10:45:16 - __main__ - INFO - 录音数据长度: 81920 字节，采样率: 16000Hz
+2025-09-26 10:45:16 - __main__ - INFO - 你说的内容：比赛。
+2025-09-26 10:45:17 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:45:17 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:47:54 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 10:47:54 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 10:47:55 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:47:55 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:47:55 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:48:00 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 10:48:01 - __main__ - ERROR - 语音识别失败，请重试
+2025-09-26 10:48:01 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:48:01 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:48:01 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:48:04 - __main__ - INFO - 
+录音提前结束
+2025-09-26 10:48:04 - __main__ - INFO - 录音数据长度: 86016 字节，采样率: 16000Hz
+2025-09-26 10:52:13 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 10:52:13 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 10:52:13 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:52:13 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:52:13 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:52:18 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 10:52:18 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 10:52:18 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 10:52:20 - src.baidu_voice - INFO - 语音识别成功：不行不行啊，不行不行。
+2025-09-26 10:52:20 - __main__ - INFO - 识别结果：不行不行啊，不行不行。
+2025-09-26 10:52:20 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 10:52:25 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 10:52:25 - __main__ - INFO - 情绪分析结果：
+2025-09-26 10:52:26 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:52:26 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:52:26 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:52:27 - __main__ - INFO - 
+录音提前结束
+2025-09-26 10:52:27 - __main__ - INFO - 录音数据长度: 47104 字节，采样率: 16000Hz
+2025-09-26 10:52:27 - src.baidu_voice - INFO - 调试音频已保存（大小：47104字节，采样率：16000Hz）
+2025-09-26 10:52:27 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：47104字节）
+2025-09-26 10:52:48 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 10:52:48 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 10:52:48 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:52:48 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:52:48 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:52:53 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 10:52:53 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 10:52:53 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 10:52:54 - src.baidu_voice - INFO - 语音识别成功：操你妈个逼。
+2025-09-26 10:52:54 - __main__ - INFO - 识别结果：操你妈个逼。
+2025-09-26 10:52:54 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 10:52:59 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 10:52:59 - __main__ - INFO - 情绪分析结果：
+2025-09-26 10:52:59 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:52:59 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:52:59 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:53:00 - __main__ - INFO - 
+录音提前结束
+2025-09-26 10:53:01 - __main__ - INFO - 录音数据长度: 49152 字节，采样率: 16000Hz
+2025-09-26 10:53:01 - src.baidu_voice - INFO - 调试音频已保存（大小：49152字节，采样率：16000Hz）
+2025-09-26 10:53:01 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：49152字节）
+2025-09-26 10:53:27 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 10:53:27 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 10:53:28 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:53:28 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:53:28 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:53:33 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 10:53:33 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 10:53:33 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 10:53:34 - src.baidu_voice - INFO - 语音识别成功：
+2025-09-26 10:53:34 - __main__ - ERROR - 语音识别失败，请重试
+2025-09-26 10:53:34 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:53:34 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:53:34 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:53:39 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 10:53:39 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 10:53:39 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 10:53:40 - src.baidu_voice - INFO - 语音识别成功：可以，现在我看一次笑的话，他声音应该能起来出来吗那企业？
+2025-09-26 10:53:40 - __main__ - INFO - 识别结果：可以，现在我看一次笑的话，他声音应该能起来出来吗那企业？
+2025-09-26 10:53:40 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 10:53:45 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 10:53:45 - __main__ - INFO - 情绪分析结果：
+2025-09-26 10:53:45 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:53:45 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:53:46 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:53:47 - __main__ - INFO - 
+录音提前结束
+2025-09-26 10:53:47 - __main__ - INFO - 录音数据长度: 43008 字节，采样率: 16000Hz
+2025-09-26 10:53:47 - src.baidu_voice - INFO - 调试音频已保存（大小：43008字节，采样率：16000Hz）
+2025-09-26 10:53:47 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：43008字节）
+2025-09-26 10:53:47 - src.baidu_voice - INFO - 语音识别成功：你好。
+2025-09-26 10:53:47 - __main__ - INFO - 识别结果：你好。
+2025-09-26 10:53:47 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 10:54:00 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 10:54:00 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 10:54:01 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:54:01 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:54:01 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:54:06 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 10:54:06 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 10:54:06 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 10:54:07 - src.baidu_voice - INFO - 语音识别成功：你好你好。
+2025-09-26 10:54:07 - __main__ - INFO - 识别结果：你好你好。
+2025-09-26 10:54:07 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 10:54:11 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 10:54:11 - __main__ - INFO - 情绪分析结果：
+2025-09-26 10:54:12 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 10:54:12 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 10:54:12 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 10:54:15 - __main__ - INFO - 
+录音提前结束
+2025-09-26 10:54:15 - __main__ - INFO - 录音数据长度: 94208 字节，采样率: 16000Hz
+2025-09-26 10:54:15 - src.baidu_voice - INFO - 调试音频已保存（大小：94208字节，采样率：16000Hz）
+2025-09-26 10:54:15 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：94208字节）
+2025-09-26 13:54:45 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 13:54:45 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 13:54:45 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 13:54:45 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 13:54:46 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 13:54:51 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 13:54:51 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 13:54:51 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 13:54:51 - src.baidu_voice - ERROR - 识别过程异常: HTTPSConnectionPool(host='aip.baidubce.com', port=443): Max retries exceeded with url: /oauth/2.0/token?grant_type=client_credentials&client_id=dhTK0W8uLsyGFL6ml4N9DGt0&client_secret=KeVq1dlchZrS6W799Akqj2n9qjhS4LZP (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001797FF66E50>: Failed to resolve 'aip.baidubce.com' ([Errno 11001] getaddrinfo failed)"))（可能是网络或SDK问题）
+2025-09-26 13:54:51 - __main__ - ERROR - 语音识别失败，请重试
+2025-09-26 13:54:51 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 13:54:51 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 13:54:51 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 13:55:15 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 13:55:15 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 13:55:15 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 13:55:15 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 13:55:16 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 13:55:21 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 13:55:21 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 13:55:21 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 13:55:21 - src.baidu_voice - ERROR - 识别过程异常: HTTPSConnectionPool(host='aip.baidubce.com', port=443): Max retries exceeded with url: /oauth/2.0/token?grant_type=client_credentials&client_id=dhTK0W8uLsyGFL6ml4N9DGt0&client_secret=KeVq1dlchZrS6W799Akqj2n9qjhS4LZP (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000016AB5127E50>: Failed to resolve 'aip.baidubce.com' ([Errno 11001] getaddrinfo failed)"))（可能是网络或SDK问题）
+2025-09-26 13:55:21 - __main__ - ERROR - 语音识别失败，请重试
+2025-09-26 13:55:21 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 13:55:21 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 13:55:21 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 13:55:25 - __main__ - INFO - 
+录音提前结束
+2025-09-26 13:55:25 - __main__ - INFO - 录音数据长度: 135168 字节，采样率: 16000Hz
+2025-09-26 13:55:25 - src.baidu_voice - INFO - 调试音频已保存（大小：135168字节，采样率：16000Hz）
+2025-09-26 13:55:25 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：135168字节）
+2025-09-26 13:55:25 - src.baidu_voice - ERROR - 识别过程异常: HTTPSConnectionPool(host='aip.baidubce.com', port=443): Max retries exceeded with url: /oauth/2.0/token?grant_type=client_credentials&client_id=dhTK0W8uLsyGFL6ml4N9DGt0&client_secret=KeVq1dlchZrS6W799Akqj2n9qjhS4LZP (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000016AB51418E0>: Failed to resolve 'aip.baidubce.com' ([Errno 11001] getaddrinfo failed)"))（可能是网络或SDK问题）
+2025-09-26 13:55:25 - __main__ - ERROR - 语音识别失败，请重试
+2025-09-26 13:55:25 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 13:55:25 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 13:56:45 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 13:56:45 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 13:56:46 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 13:56:46 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 13:56:46 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 13:56:51 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 13:56:51 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 13:56:51 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 13:56:53 - src.baidu_voice - INFO - 语音识别成功：你好你好你好。
+2025-09-26 13:56:53 - __main__ - INFO - 识别结果：你好你好你好。
+2025-09-26 13:56:53 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 13:56:57 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 13:56:57 - __main__ - INFO - 情绪分析结果：
+2025-09-26 13:56:58 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 13:56:58 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 13:56:58 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 13:56:58 - __main__ - INFO - 
+录音提前结束
+2025-09-26 13:56:58 - __main__ - INFO - 录音数据长度: 18432 字节，采样率: 16000Hz
+2025-09-26 13:56:58 - src.baidu_voice - INFO - 调试音频已保存（大小：18432字节，采样率：16000Hz）
+2025-09-26 13:56:58 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：18432字节）
+2025-09-26 13:56:59 - src.baidu_voice - INFO - 语音识别成功：
+2025-09-26 13:56:59 - __main__ - ERROR - 语音识别失败，请重试
+2025-09-26 13:56:59 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 13:56:59 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 14:56:11 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 14:56:11 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 14:56:11 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 14:56:11 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 14:56:12 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 14:56:17 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 14:56:17 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 14:56:17 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 14:56:19 - src.baidu_voice - INFO - 语音识别成功：我们是什么鱼？兄弟。
+2025-09-26 14:56:19 - __main__ - INFO - 识别结果：我们是什么鱼？兄弟。
+2025-09-26 14:56:19 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 14:56:24 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 14:56:24 - __main__ - INFO - 情绪分析结果：
+2025-09-26 14:56:24 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 14:56:24 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 14:56:24 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 14:56:29 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 14:56:29 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 14:56:29 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 14:56:30 - src.baidu_voice - INFO - 语音识别成功：我们希望吸引了。
+2025-09-26 14:56:30 - __main__ - INFO - 识别结果：我们希望吸引了。
+2025-09-26 14:56:30 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 14:56:35 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 14:56:35 - __main__ - INFO - 情绪分析结果：
+2025-09-26 14:56:35 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 14:56:35 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 14:56:35 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 14:56:40 - __main__ - INFO - 
+录音提前结束
+2025-09-26 14:56:40 - __main__ - INFO - 录音数据长度: 137216 字节，采样率: 16000Hz
+2025-09-26 14:56:40 - src.baidu_voice - INFO - 调试音频已保存（大小：137216字节，采样率：16000Hz）
+2025-09-26 14:56:40 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：137216字节）
+2025-09-26 15:29:33 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 15:29:33 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 15:29:34 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:29:34 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:29:34 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:29:39 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:29:39 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:29:39 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:29:40 - src.baidu_voice - INFO - 语音识别成功：Hello。
+2025-09-26 15:29:40 - __main__ - INFO - 识别结果：Hello。
+2025-09-26 15:29:40 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:29:50 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 15:29:50 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 15:29:51 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:29:51 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:29:51 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:29:56 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:29:56 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:29:56 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:29:58 - src.baidu_voice - INFO - 语音识别成功：好的，我看看。
+2025-09-26 15:29:58 - __main__ - INFO - 识别结果：好的，我看看。
+2025-09-26 15:29:58 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:30:03 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 15:30:03 - __main__ - INFO - 情绪分析结果：
+2025-09-26 15:30:03 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:30:03 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:30:04 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:30:09 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:30:09 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:30:09 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:30:09 - src.baidu_voice - INFO - 语音识别成功：海宁。
+2025-09-26 15:30:09 - __main__ - INFO - 识别结果：海宁。
+2025-09-26 15:30:09 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:30:14 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 15:30:14 - __main__ - INFO - 情绪分析结果：
+2025-09-26 15:30:14 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:30:14 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:30:15 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:30:20 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:30:20 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:30:20 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:30:20 - src.baidu_voice - INFO - 语音识别成功：好好好。
+2025-09-26 15:30:20 - __main__ - INFO - 识别结果：好好好。
+2025-09-26 15:30:20 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:30:25 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 15:30:25 - __main__ - INFO - 情绪分析结果：
+2025-09-26 15:30:25 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:30:25 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:30:25 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:30:30 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:30:30 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:30:30 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:30:31 - src.baidu_voice - INFO - 语音识别成功：你脑子没有什么。
+2025-09-26 15:30:31 - __main__ - INFO - 识别结果：你脑子没有什么。
+2025-09-26 15:30:31 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:30:36 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 15:30:36 - __main__ - INFO - 情绪分析结果：
+2025-09-26 15:30:37 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:30:37 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:30:37 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:30:39 - __main__ - INFO - 
+录音提前结束
+2025-09-26 15:30:39 - __main__ - INFO - 录音数据长度: 67584 字节，采样率: 16000Hz
+2025-09-26 15:30:39 - src.baidu_voice - INFO - 调试音频已保存（大小：67584字节，采样率：16000Hz）
+2025-09-26 15:30:39 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：67584字节）
+2025-09-26 15:30:50 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 15:30:50 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 15:30:50 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:30:50 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:30:51 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:30:56 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:30:56 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:30:56 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:30:56 - src.baidu_voice - INFO - 语音识别成功：西藏。
+2025-09-26 15:30:56 - __main__ - INFO - 识别结果：西藏。
+2025-09-26 15:30:56 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:31:13 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 15:31:13 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 15:31:14 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:31:14 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:31:14 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:31:19 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:31:19 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:31:19 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:31:20 - src.baidu_voice - INFO - 语音识别成功：Hello hello hello。
+2025-09-26 15:31:20 - __main__ - INFO - 识别结果：Hello hello hello。
+2025-09-26 15:31:20 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:31:25 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 15:31:25 - __main__ - INFO - 情绪分析结果：
+2025-09-26 15:31:25 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:31:25 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:31:25 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:31:26 - __main__ - INFO - 
+录音提前结束
+2025-09-26 15:31:26 - __main__ - INFO - 录音数据长度: 45056 字节，采样率: 16000Hz
+2025-09-26 15:31:26 - src.baidu_voice - INFO - 调试音频已保存（大小：45056字节，采样率：16000Hz）
+2025-09-26 15:31:26 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：45056字节）
+2025-09-26 15:32:03 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 15:32:03 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 15:32:04 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:32:04 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:32:04 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:32:09 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:32:09 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:32:09 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:32:10 - src.baidu_voice - INFO - 语音识别成功：保定有一定。
+2025-09-26 15:32:10 - __main__ - INFO - 识别结果：保定有一定。
+2025-09-26 15:32:10 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:32:16 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 15:32:16 - __main__ - INFO - 情绪分析结果：
+2025-09-26 15:32:16 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:32:16 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:32:16 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:32:21 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:32:21 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:32:21 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:32:22 - src.baidu_voice - INFO - 语音识别成功：保定有。
+2025-09-26 15:32:22 - __main__ - INFO - 识别结果：保定有。
+2025-09-26 15:32:22 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:35:17 - __main__ - INFO - 初始化情绪感知引擎...
+2025-09-26 15:35:17 - __main__ - INFO - 情绪感知助手已启动，开始交互...
+2025-09-26 15:35:17 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:35:17 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:35:17 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:35:22 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:35:22 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:35:22 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:35:24 - src.baidu_voice - INFO - 语音识别成功：哦。
+2025-09-26 15:35:24 - __main__ - INFO - 识别结果：哦。
+2025-09-26 15:35:24 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:35:29 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 15:35:29 - __main__ - INFO - 情绪分析结果：
+2025-09-26 15:35:29 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:35:29 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:35:29 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:35:34 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:35:34 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:35:34 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:35:35 - src.baidu_voice - INFO - 语音识别成功：飞飞。
+2025-09-26 15:35:35 - __main__ - INFO - 识别结果：飞飞。
+2025-09-26 15:35:35 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:35:40 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 15:35:40 - __main__ - INFO - 情绪分析结果：
+2025-09-26 15:35:41 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:35:41 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:35:41 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:35:46 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:35:46 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:35:46 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:35:47 - src.baidu_voice - INFO - 语音识别成功：今天元。
+2025-09-26 15:35:47 - __main__ - INFO - 识别结果：今天元。
+2025-09-26 15:35:47 - src.emotion_analyzer - INFO - 开始情绪分析...
+2025-09-26 15:35:52 - src.emotion_analyzer - INFO - 情绪分析完成
+2025-09-26 15:35:52 - __main__ - INFO - 情绪分析结果：
+2025-09-26 15:35:52 - __main__ - INFO - 可用麦克风设备：
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 0: Microsoft 声音映射器 - Input
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 1: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 4: 主声音捕获驱动程序
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 5: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 9: 麦克风阵列 (Realtek(R) Audio)
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 12: 电脑扬声器 (Realtek HD Audio output with SST)
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 13: 麦克风阵列 (Realtek HD Audio Mic input)
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 16: 电脑扬声器 (Realtek HD Audio 2nd output with SST)
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 17: Mic in at front panel (black) (Mic in at front panel (black))
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 18: 立体声混音 (Realtek HD Audio Stereo input)
+2025-09-26 15:35:52 - __main__ - INFO - 设备ID 24: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Star Y360))
+2025-09-26 15:35:53 - __main__ - INFO - 请说话...（5秒内说完，按Ctrl+C可提前结束）
+2025-09-26 15:35:58 - __main__ - INFO - 录音数据长度: 159744 字节，采样率: 16000Hz
+2025-09-26 15:35:58 - src.baidu_voice - INFO - 调试音频已保存（大小：159744字节，采样率：16000Hz）
+2025-09-26 15:35:58 - src.baidu_voice - DEBUG - 开始调用百度语音识别（采样率：16000Hz，音频长度：159744字节）
+2025-09-26 15:35:58 - src.baidu_voice - INFO - 语音识别成功：吉林。
+2025-09-26 15:35:58 - __main__ - INFO - 识别结果：吉林。
+2025-09-26 15:35:58 - src.emotion_analyzer - INFO - 开始情绪分析...
